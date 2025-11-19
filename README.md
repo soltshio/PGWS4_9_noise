@@ -8,23 +8,23 @@
 
 ### ノイズ
 
-![結果](Result1.gif)
+![結果](Movie_001.gif)
 
 ### FBM
 
-![結果](Result2.gif)
+![結果](Movie_002.gif)
 
 ### パターン
 
-![結果](Result3.png)
+![結果](Movie_003.gif)
 
 ### ボロノイ図
 
-![結果](Result4.gif)
+![結果](Movie_004.gif)
 
 ### 炎
 
-![結果](Result5.gif)
+![結果](Movie_005.gif)
 
 ### ディゾルブ
 
